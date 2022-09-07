@@ -7,6 +7,7 @@
 [11N ethereum OpenZeppelin : Developing smart contracts](https://github.com/565ee/OpenZeppelin_EN/blob/main/doc/11N%20ethereum%20OpenZeppelin%20:%20Developing%20smart%20contracts.md)         
 [11P ethereum OpenZeppelin : Deploying and interacting with smart contracts](https://github.com/565ee/OpenZeppelin_EN/blob/main/doc/11P%20ethereum%20OpenZeppelin%20:%20Deploying%20and%20interacting%20with%20smart%20contracts.md)         
 [11R ethereum OpenZeppelin : Writing automated smart contract tests](https://github.com/565ee/OpenZeppelin_EN/blob/main/doc/11R%20ethereum%20OpenZeppelin%20:%20Writing%20automated%20smart%20contract%20tests.md)         
+[11T ethereum OpenZeppelin : Connecting to public test networks](https://github.com/565ee/OpenZeppelin_EN/blob/main/doc/11T%20ethereum%20OpenZeppelin%20:%20Connecting%20to%20public%20test%20networks.md)         
 
 # <span id='index2'>• Middle 中级</span>  
 
